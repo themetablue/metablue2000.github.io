@@ -1,6 +1,5 @@
 .anton{
     font-family: 'Anton', sans-serif;
-    color: white;
 }
 a{
     display: inline;
@@ -11,5 +10,8 @@ img.banniere{
 }
 body{
     background-color: black;
+}
+p{
+    color: white;
 }
 /*Test the css file*/
