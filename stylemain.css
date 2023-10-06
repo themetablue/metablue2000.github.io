@@ -13,5 +13,7 @@ img.banniere{
     height: 100%;
     filter: blur(3px);
 }
-
+body{
+    background-color: black;
+}
 /*Test the css file*/
