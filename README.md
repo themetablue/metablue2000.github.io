@@ -1,8 +1,8 @@
 # 🌐 metablue2000.io 🌐
 
 ## Sommaire :
-+ [**README in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿**](https://github.com/MetaBlue2000/metablue2000.github.io/edit/main/README.md#-english-)
-- [**README en Français 🇫🇷**](https://github.com/MetaBlue2000/metablue2000.github.io/edit/main/README.md#-fran%C3%A7ais-)
++ [**README in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿**](https://github.com/MetaBlue2000/metablue2000.github.io/blob/main/README.md#-english-)
+- [**README en Français 🇫🇷**](https://github.com/MetaBlue2000/metablue2000.github.io/blob/main/README.md#-fran%C3%A7ais-)
 
 
 ## 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 English 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿
