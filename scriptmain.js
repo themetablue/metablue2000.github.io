@@ -7,4 +7,4 @@ function rechargerPage() {
 rechargerPage();
 
 // Configurer une boucle pour recharger la page toutes les 15 secondes
-setInterval(rechargerPage, 3000); // 15 000 millisecondes équivalent à 15 secondes
+setInterval(rechargerPage, 3000);
