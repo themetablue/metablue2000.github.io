@@ -13,6 +13,7 @@ span.entete{
     background-color: gray;
     padding: 10px;
     margin-bottom: 5px;
+    border-radius: 10px;
 }
 div.allbody{
     z-index: 0;
